@@ -1,9 +1,5 @@
 # Party Wipe - frontend
 
-This is a base project to start a new React project.
-
-To start a new project use [base-django-project](https://github.com/ClarenceLindh/base-django-project) for the backend.
-
 ## Tech stack
 - React
 - Typescript
