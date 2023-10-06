@@ -1,4 +1,4 @@
-# React Base Project
+# Party Wipe - frontend
 
 This is a base project to start a new React project.
 
